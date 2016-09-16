@@ -1,0 +1,8 @@
+AllCops:
+  TargetRubyVersion: 2.0
+  Exclude:
+    - 'bin/**/*'
+    - Gemfile\
+
+Metrics/LineLength:
+  Max: 115
