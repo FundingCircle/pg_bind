@@ -1,3 +1,3 @@
 module PGBinder
-  VERSION = '0.1.0.beta.1'.freeze
+  VERSION = '0.1.0.beta.2'.freeze
 end
